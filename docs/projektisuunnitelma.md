@@ -51,3 +51,17 @@ Sovelluksen toiminta testataan selaimessa. Valmis sovellus julkaistaan verkossa,
 ## 9. Dokumentointi
 
 Projektin eteneminen, tehdyt muutokset, ongelmat ja niiden ratkaisut dokumentoidaan GitHubissa.
+## 10. Sprinttisuunnitelma
+
+### Sprintti 1 – Suunnittelu ja käyttöliittymä
+- Reseptien hakunäkymän toteutus (60 min).
+- Reseptisovelluksen ulkoasun viimeistely (120 min).
+
+### Sprintti 2 – Reseptien hakeminen
+- Reseptien hakeminen TheMealDB-rajapinnasta (90 min).
+- Hakutulosten näyttäminen (60 min).
+
+### Sprintti 3 – Reseptien tiedot ja virhetilanteet
+- Reseptin tietojen näyttäminen (90 min).
+- Tyhjien hakutulosten ilmoittaminen (30 min).
+- TheMealDB-rajapinnan virhetilanteiden käsittely (45 min).
